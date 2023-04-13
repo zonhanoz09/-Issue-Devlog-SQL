@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevLog", "DevLog\DevLog.csproj", "{42C28EA1-391E-48F5-AAC9-BC545DDA2387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deadlock", "Deadlock\Deadlock.csproj", "{42C28EA1-391E-48F5-AAC9-BC545DDA2387}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoAutofac", "DemoAutofac\DemoAutofac.csproj", "{991ECEE6-BCD5-44FA-B46A-3BFD2A34C40F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexSql", "IndexSql\IndexSql.csproj", "{D9F87D81-9989-40FC-8F55-6554557B037E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumFlags", "EnumFlags\EnumFlags.csproj", "{BC9634B1-EB21-44F4-950B-C367F0F8E922}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumFlags", "EnumFlags\EnumFlags.csproj", "{BC9634B1-EB21-44F4-950B-C367F0F8E922}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
